@@ -6,5 +6,10 @@
 Welcome to my very first Full Stack web, developed with the PERN stack (PosgreSQL, Express, React.js, Node.js) This is intended to be just a simple crud of users. 
 The main idea behind this project was for me to understand how Front and Back relate to make a Full stack app possible. 
 
-
 Next version of this app will have user validation among other features.
+
+Link to Deployment: https://fe-pern-crud-users.denismendoza.site/ (Front end)
+
+Link to Back end: https://be-pern-crud-of-users.denismendoza.site/
+
+More to come...
